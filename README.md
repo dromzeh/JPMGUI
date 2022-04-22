@@ -1,8 +1,18 @@
 # JPMGUI (Java Path Manager GUI)
-- GUI for easily modifying Java Path / Environment Variables made with C# for Windows Only.
-- Note: This is just a program I quickly made in an hour as I constantly found switching between Java Paths was tiring. I might add more to this in the future.
-- You can Compile this yourself using VS2022.
+- Basic GUI for easily modifying Java Path / Environment Variables made with C# for Windows Only.
+- You can also compile this for yourself - I used VS2022.
+
+- *Note: This is just a program I quickly made I constantly found switching between Java Paths was tiring and this is the most convenient option for me, code is nothing too complex. I might add more to this in the future if needed.*
+
+# Requirements
+- [.NET 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472).
+
+# Features
+- Allows for you to change your current selected Java path to any other one of your choice.
+- Program automatically removes any existing entries of Java directories in the `Path` Variable to prevent flood.
 
 # Usage
-Program is simple to use, select your Java folder, then in the dropdown select the Java Version you want to use, then 'Set Path'.
+- Program is simple to use, select the folder where you have all your java versions saved **(NOT the actual jdk/jde folder)** & in the dropdown select the Java Version you want to use, then 'Set Path'.
 
+# Todo
+- Allow for the last selected folder to be saved so you don't have to navigate to your Java folder every single time.
