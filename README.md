@@ -1,7 +1,7 @@
 # JPMGUI (Java Path Manager GUI)
 - Basic GUI for easily modifying Java Path / Environment Variables made with C# for Windows Only.
 - You can also compile this for yourself - I used VS2022.
-
+- The program requests for UAC as it is modifying Environment Variables.
 - *Note: This is just a program I quickly made I constantly found switching between Java Paths was tiring and this is the most convenient option for me, code is nothing too complex. I might add more to this in the future if needed.*
 
 # Requirements
