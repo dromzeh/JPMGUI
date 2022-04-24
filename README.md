@@ -1,3 +1,6 @@
+[![MIT](https://img.shields.io/badge/license-MIT-9CF)]()
+[![NET](https://img.shields.io/badge/.NET-4.7.2-ff69b4)]()
+
 # JPMGUI (Java Path Manager GUI)
 - Basic GUI for easily modifying Java Path / Environment Variables made with C# for Windows Only.
 - You can also compile this for yourself - I used VS2022.
