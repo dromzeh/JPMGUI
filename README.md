@@ -8,7 +8,7 @@
 - [.NET 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472).
 
 # Usage
-- Program is simple to use, select the folder where you have all your java versions saved **(NOT the actual jdk/jde folder)** & in the dropdown select the Java Version you want to use, then 'Set Path'.
+- Program is simple to use, select the folder where you have all your java versions saved **(NOT the actual jdk/jre folder)** & in the dropdown select the Java Version you want to use, then 'Set Path'.
 
 <img src = "https://cdn.discordapp.com/attachments/833632547207643139/967394351388958720/unknown.png"></img>
 
