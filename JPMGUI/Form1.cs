@@ -30,7 +30,7 @@ namespace JPMGUI
         private void SelectBtn_Click(object sender, EventArgs e)
         {
             FolderBrowserDialog javadir = new FolderBrowserDialog();
-            javadir.Description = "Default directory is C:/Program Files/Java. Make sure to NOT select the jdk/jde folder - you want to select the folder where all your java versions are stored.";
+            javadir.Description = "Default directory is C:/Program Files/Java. Make sure to NOT select the jdk/jre folder - you want to select the folder where all your java versions are stored.";
 
             if (javadir.ShowDialog() == DialogResult.OK)
             {
